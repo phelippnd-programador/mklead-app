@@ -13,3 +13,133 @@
 .externalNativeBuild
 .cxx
 local.properties
+Ir para o conteúdo
+Pesquise ou pule para ...
+Solicitação de pull s
+Problemas
+Mercado
+Explorar
+ 
+@ phelippnd-programador 
+phelippnd-programador
+/
+mklead-app
+Público
+1
+0
+0
+Código
+Problemas
+Solicitações de pull
+Ações
+Projetos
+Wiki
+Segurança
+Intuições
+Definições
+mklead-app/ .gitignore
+@ phelippnd-programador
+phelippnd-programador commit inicial
+Último commit d0694c3 há 2 minutos
+ História
+ 1 contribuidor
+85 linhas (68 sloc)  1,4 KB
+   
+# Arquivos de aplicativos criados
+* .apk
+* .aar
+* .ap_
+* .aab
+
+# Arquivos para ART / Dalvik VM
+* .dex
+
+# Arquivos de classe Java
+* .class
+
+# Arquivos gerados
+bin /
+gen /
+fora /
+#   Remova o comentário da linha a seguir caso precise e não tenha os arquivos do tipo de versão de compilação em seu aplicativo
+# release /
+
+# Arquivos Gradle
+.gradle /
+construir /
+
+# Arquivo de configuração local (caminho sdk, etc)
+local.properties
+
+# Pasta Proguard gerada pelo Eclipse
+proguard /
+
+# Arquivos de log
+* .log
+
+# Arquivos temporários do editor de navegação do Android Studio
+.navigation /
+
+# Android Studio captura pasta
+captura /
+
+# IntelliJ
+* .iml
+.idea / workspace.xml
+.idea / tasks.xml
+.idea / gradle.xml
+.idea / assetWizardSettings.xml
+.idea / dicionários
+.idea / bibliotecas
+# Android Studio 3 no arquivo .gitignore.
+.idea/caches
+.idea/modules.xml
+# Comment next line if keeping position of elements in Navigation Editor is relevant for you
+.idea/navEditor.xml
+
+# Keystore files
+# Uncomment the following lines if you do not want to check your keystore files in.
+#*.jks
+#*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# Google Services (e.g. APIs or Firebase)
+# google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane / report.xml
+fastlane / Preview.html
+fastlane / screenshots
+fastlane / test_output
+fastlane / readme.md
+
+# Controle de versão
+vcs.xml
+
+# lint
+fiapos / intermediários /
+lint / gerado /
+lint / saídas /
+lint / tmp /
+# lint / reports /
+© 2021 GitHub, Inc.
+Termos
+Privacidade
+Segurança
+Status
+Docs
+Entre em contato com o GitHub
+Preços
+API
+Treinamento
+Blog
+Cerca de
+Carregamento completo
